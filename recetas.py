@@ -14,8 +14,20 @@ def receta_pasta():
     print("3. Mezclar todo y servir caliente.")
 
 # Agrega tu receta debajo de esta línea
-# Ejemplo:
-# def receta_tacos():
-#     print(" Receta: Tacos de pollo")
-#     print("Ingredientes: tortillas, pollo, cebolla, cilantro")
-#     print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
+
+def chicharron_salsa_verde():
+	print("Receta chicharron en salsa verde")
+	print("Ingredientes: chicharrón, tomates verdes, chile, ajo, cebollla y sal")
+	print("Pasos:")
+	print("1. Hervimos tomates verdes, chile, ajo y cebolla")
+	print("2. Llevamos los ingredientes que hervimos a una licuadora y dentro de la misma los licuamos; así obtenemos la salsa")
+	print("3. Cocinamos la salsa en una olla por 5 minutos y echamos sal al gusto")
+	print("4. Agregamos el chicharrón cuando la salsa esté hirviendo hasta que se suavice")
+	print("5. Dejamos reposar y servimos")
+
+def cereal_con_keche():
+	print("Receta cereal con leche")
+	print("Ingredientes: leche, cereal")
+	print("Pasos:")
+	print("1. En un tazón servimos la cantidad de cereal que queramos comer")
+	print("2. Encima del cereal servimos la leche hasta que se llene la mitad del bowl")
